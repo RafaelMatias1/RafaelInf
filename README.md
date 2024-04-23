@@ -29,9 +29,7 @@ Olá! Meu nome é Rafael Matias Schimidt, Tenho 18 anos e estou iniciando a minh
 
 - Curso de Desenvolvimento de Sistemas(https://github.com/RafaelMatias1/Semes_4) - Estou apresentando o que eu estou aprendendo no momento, entre e veja mais 
 
-## Vamos Conectar!
-
-Fique à vontade para explorar meus repositórios e entrar em contato comigo. Vamos aprender e construir juntos! 😄
+## Outras áreas!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-matias-schimidt-3200b424a/)
 [![GitHub Seguir](https://img.shields.io/github/followers/LuigiInt1?label=Siga%20no%20GitHub&style=social)](https://github.com/RafaelMatias1)
